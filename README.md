@@ -13,4 +13,4 @@ __How to run the code__
 (3) For clustering run main_clustering.m script and read the corresponding description.
 
 
-__Figures for each seizure's reduced data and clustering solution__
+__Folder named "FiguresReducedData" contains figures for each seizure's reduced data and clustering solution__
