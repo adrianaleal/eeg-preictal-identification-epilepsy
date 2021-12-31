@@ -15,7 +15,7 @@ __How to run the code__
 
 __Folder named "FiguresReducedData" contains figures depicting reduced data and clustering solution before each seizure’s onset (similar do Fig. 4 in the paper)__
 
-__Excel file named "results_eeg_preictal_unsupervised_learning.xlsx" contains the results for__ 
+__Excel file named "results_eeg_preictal_unsupervised_learning.xlsx" contains the results for:__ 
 
 - Feature reduction (including final parameters obtained for t-SNE and UMAP).
 - Clustering (including the final clustering methods and the Dunn's Index value). 
