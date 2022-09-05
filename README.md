@@ -2,7 +2,7 @@
 
 __Code to reproduce results reported in our paper published as:__
 
-Leal, A., Curty, J., Lopes, F., Pinto, M.F., Oliveira, A., Sales, F., Ruano, M.G., Dourado, A., Henriques, J., and Teixeira, C.A. "Unsupervised EEG Preictal Interval Identification in Patients with Drug-resistant Epilepsy." (2021)
+Leal, A., Curty, J., Lopes, F., Pinto, M.F., Oliveira, A., Sales, F., Ruano, M.G., Dourado, A., Henriques, J., and Teixeira, C.A. "Unsupervised EEG Preictal Interval Identification in Patients with Drug-resistant Epilepsy." (2022)
 
 __How to run the code__
 
@@ -13,7 +13,7 @@ __How to run the code__
 (3) For clustering run main_clustering.m script and read the corresponding description.
 
 
-__Folder named "FiguresReducedData" contains figures depicting reduced data and clustering solution before each seizure’s onset (similar do Fig. 4 in the paper)__
+__Folder named "FiguresReducedData" contains figures depicting reduced data and clustering solution before each seizure's onset (similar to Figure 4 in the paper)__
 
 __Excel file named "results_eeg_preictal_unsupervised_learning.xlsx" contains the results for:__ 
 
