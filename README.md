@@ -8,11 +8,15 @@ __How to run the code__
 
 (1) For feature extraction run main_feature_extraction.m script and read the corresponding description.
 
-(2) For feature reduction run main_feature_reduction.py script and read the corresponding description.
+(2) For feature reduction run main_feature_reduction.m script and read the corresponding description.
 
-(3) For clustering run main_clustering.py script and read the corresponding description.
+(3) For clustering run main_clustering.m script and read the corresponding description.
 
 
-__Folder named "FiguresReducedData" contains figures depicting reduced data and clustering solution before each seizure’s onset (similar do Fig. 4 in the paper)__
+__Folder named "FiguresReducedData" contains figures depicting reduced data and clustering solution before each seizure's onset (similar to Figure 4 in the paper)__
 
-__Folder named "figures_seizures_distribution_and_control_intervals" contains figures depicting each patient's seizure distribution and for each day of data collection (white and purple sequence of days). Lead seizures and the 4.5 hours of data analysed before seizure onset are also represented. Lastly, the control intervals analysed in the study are indicated when determined.__
+__Excel file named "results_eeg_preictal_unsupervised_learning.xlsx" contains the results for:__ 
+
+- Feature reduction (including final parameters obtained for t-SNE and UMAP).
+- Clustering (including the final clustering methods and the Dunn's Index value). 
+- Preictal interval inspection (including the starting time and duration of the preictal interval and the correlation with the sleep-wake cycle)
