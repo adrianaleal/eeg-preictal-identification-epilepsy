@@ -13,7 +13,7 @@ __How to run the code__
 (3) For clustering run main_clustering.m script and read the corresponding description.
 
 
-__Folder named "figures_reduced_data" contains figures depicting reduced data and clustering solution before each seizure's onset (similar to Figure 4 in the paper)__
+__Folder named "figures_clustering_solution_inspection" contains figures depicting reduced data and clustering solution before each seizure's onset (similar to Figure 4 in the paper)__
 
 __Folder named "figures_seizures_distribution_and_control_intervals" contains figures depicting each patient's seizure distribution and for each day of data collection (white and purple sequence of days). Lead seizures and the 4.5 hours of data analysed before seizure onset are also represented. Lastly, the control intervals analysed in the study are indicated when determined.__
 
