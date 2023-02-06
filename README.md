@@ -6,7 +6,7 @@ Leal, A., Curty, J., Lopes, F., Pinto, M.F., Oliveira, A., Sales, F., Ruano, M.G
 
 __How to run the code__
 
-(1) For feature extraction run main_feature_extraction.m script and read the corresponding description.
+(1) For feature extraction run main_feature_extraction.m script in folder 1_extract_eeg_features.
 
 (2) For feature reduction run main_feature_reduction.m script and read the corresponding description.
 
