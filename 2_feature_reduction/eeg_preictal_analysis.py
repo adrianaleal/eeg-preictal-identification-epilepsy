@@ -34,7 +34,7 @@ from sklearn.preprocessing import MinMaxScaler
 # from spherecluster import SphericalKMeans
 # from soyclustering import SphericalKMeans
 
-# import hdbscan
+import hdbscan
 import umap
 
 # Excel writer
