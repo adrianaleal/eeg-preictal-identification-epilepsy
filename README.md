@@ -1,6 +1,5 @@
 # Unsupervised EEG Preictal Interval Identification in Patients with Drug-resistant Epilepsy
 
-
 __Code to reproduce results reported in our paper published as:__
 
 Leal, A., Curty, J., Lopes, F., Pinto, M.F., Oliveira, A., Sales, F., Ruano, M.G., Dourado, A., Henriques, J., and Teixeira, C.A. "Unsupervised EEG Preictal Interval Identification in Patients with Drug-resistant Epilepsy." Scientific Reports 13, 784 (2023). https://doi.org/10.1038/s41598-022-23902-6
